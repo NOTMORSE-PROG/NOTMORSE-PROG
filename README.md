@@ -1,81 +1,91 @@
-<div align="center">
+# MARK ANDREI A. CONDINO
+**Full-Stack Developer | Tech Leader**
 
-# 💫 Mark Andrei Condino
-### Software Developer | Web & Mobile Specialist
-
-<p align="center">
-  <a href="https://condino-profile.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/mark-andrei-condino-0323a5327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:markandreicondino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+📧 markandreicondino@gmail.com | 📱 +63 927 598 0544 | 📍 Manila, Philippines  
+🔗 [LinkedIn](https://www.linkedin.com/in/mark-andrei-condino-0323a5327/) | 🌐 [Portfolio](https://condino-profile.vercel.app)
 
 ---
 
-<img src="https://utfs.io/f/D8rLLdYxj7dgWezinVxpzPSwLqOM1oDT3nl2t9C0fYXkRsrN" width="180" style="border-radius: 50%; border: 4px solid #3b82f6;" />
+## PROFESSIONAL SUMMARY
 
-*"Crafting innovative solutions with modern technologies"*
-
-</div>
-
-## 📖 About Me
-I am a resourceful **Software Developer** with a passion for building high-performance web and mobile applications. With experience ranging from freelance projects to international collaboration at **Ethos Bytes (Australia)**, I specialize in turning complex problems into elegant digital solutions.
-
-- 🏢 **Software Developer** at Ethos Bytes (Australia)
-- 🎓 **Open Source President** leading 50+ developers
-- 🛡️ **Lead Cloud Security Officer** specializing in AWS compliance
-- 🚀 Delivered **10+ Websites** and **3+ Android Apps**
+Full-Stack Developer specializing in web and mobile application development. Experienced in building scalable solutions using React.js, Next.js, PHP, and Kotlin. Proven track record of delivering 10+ websites and 3+ Android applications while leading technical communities and managing cross-functional projects.
 
 ---
 
-## 🛠️ Tech Stack
+## EXPERIENCE
 
-<div align="center">
+**Software Developer** | Ethos Bytes (Australia) | Oct 2025 - Dec 2025
+- Collaborated with development teams on design, development, and testing of software applications
+- Implemented OAuth2.0 authentication flows and Microsoft Entra integration
+- Participated in Agile/Scrum development with daily standups and sprint planning
+- **Tech Stack:** Docker, Django, React, React Native, Python, Next.js, TailwindCSS
 
-### 📱 Mobile & Core
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-</div>
+**Freelance Full-Stack Developer** | Self-Employed | Jun 2023 - Present
+- Delivered 10+ responsive websites and 3+ Android applications for clients and academic organizations
+- Managed full project lifecycle from requirements gathering to deployment with 100% on-time delivery
+- Provided training and documentation to non-technical clients for project maintenance
+- **Tech Stack:** React.js, Next.js, PHP, Laravel, Kotlin, Firebase, MySQL, AWS, TailwindCSS
 
 ---
 
-## 🚀 Featured Projects
+## EDUCATION
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[T.I.P MART](https://github.com/NOTMORSE-PROG/T.I.P-MART)** | Android Marketplace for students | Kotlin, Compose, Firebase |
-| **[VoteHubPH](https://github.com/NOTMORSE-PROG/VoteHubPH)** | Full-stack National Voting Platform | Next.js 14, Laravel, PostgreSQL |
-| **[VocaNova 2025](https://github.com/NOTMORSE-PROG/VOCANOVA)** | Gamified Educational Learning App | Kotlin, Compose, Hilt |
-| **[FilipinoBlog](https://github.com/NOTMORSE-PROG/Filipino-Blog)** | Cultural Blogging Platform | PHP, MySQL, Bootstrap |
+**Bachelor of Science in Information Technology**  
+Technological Institute of the Philippines | Expected May 2027
+
+**Certifications:** NC2 Certification
 
 ---
 
-## 📊 GitHub Stats
+## LEADERSHIP EXPERIENCE
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOTMORSE-PROG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOTMORSE-PROG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+**Open Source President**
+- Lead organization of 50+ developers in programming excellence and open-source technology adoption
+- Organized technical workshops on web development, Android development, and cloud technologies
+- Coordinated competitive programming participation with multiple top-10 placements
+- Established partnerships with tech organizations for mentorship and internship opportunities
+
+**Lead Cloud Security Officer**
+- Implemented AWS security best practices and compliance standards for student projects
+- Promoted secure cloud development culture through hands-on training sessions
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ by Mark Andrei Condino</p>
-</div>
+## FEATURED PROJECTS
+
+**VoteHubPH** - National Voting & Candidate Information Platform  
+Full-stack platform for Filipino voters to access candidate data and engage in democratic discussions  
+`Next.js 14` `Laravel 11` `PostgreSQL` `TailwindCSS`
+
+**VocaNova** - Vocabulary Learning Mobile App  
+Gamified educational app for Grade 7 students to enhance vocabulary learning  
+`Kotlin` `Jetpack Compose` `Firebase` `Material Design 3`
+
+**T.I.P MART** - Campus Marketplace Mobile App  
+Android marketplace enabling TIP students to buy and sell items within campus  
+`Kotlin` `Jetpack Compose` `Firebase` `MVVM Architecture`
+
+**FilipinoBlog** - Community Blogging Platform  
+Platform for Filipino bloggers to share cultural stories and experiences  
+`PHP` `MySQL` `Bootstrap` `HTML5` `CSS3`
+
+---
+
+## TECHNICAL SKILLS
+
+**Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Bootstrap, HTML5, CSS3  
+**Backend:** PHP, Laravel, Node.js, Django, Python  
+**Mobile:** Kotlin, Java, Jetpack Compose, React Native  
+**Database:** PostgreSQL, MySQL, Firebase, Supabase, Prisma  
+**DevOps/Cloud:** AWS, Docker, Vercel, Git/GitHub, GitLab  
+**Other:** OAuth2.0, MVVM Architecture, Material Design 3, Agile/Scrum
+
+---
+
+## ACHIEVEMENTS
+
+🏆 3rd Place - CodeQuest IT Summit  
+🎯 Participant - SIKAPTALA 2025  
+🎯 Participant - Hack the Beat: Capture The Flag 2025  
+🎯 Participant - C(Old) (St)art Hackathon  
+🎯 Participant - SBD Challenge
