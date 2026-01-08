@@ -2,7 +2,7 @@
 **Full-Stack Developer | Tech Leader**
 
 📧 markandreicondino@gmail.com | 📱 +63 927 598 0544 | 📍 Manila, Philippines  
-🔗 [LinkedIn](https://www.linkedin.com/in/mark-andrei-condino-0323a5327/) | 🌐 [Portfolio](https://condino-profile.vercel.app)
+🔗 <a href="https://www.linkedin.com/in/mark-andrei-condino-0323a5327/" target="_blank">LinkedIn</a> | 🌐 <a href="https://condino-profile.vercel.app" target="_blank">Portfolio</a>
 
 ---
 
@@ -53,19 +53,19 @@ Technological Institute of the Philippines | Expected May 2027
 
 ## FEATURED PROJECTS
 
-**VoteHubPH** - National Voting & Candidate Information Platform  
+**<a href="https://github.com/NOTMORSE-PROG/VoteHubPH" target="_blank">VoteHubPH</a>** - National Voting & Candidate Information Platform  
 Full-stack platform for Filipino voters to access candidate data and engage in democratic discussions  
 `Next.js 14` `Laravel 11` `PostgreSQL` `TailwindCSS`
 
-**VocaNova** - Vocabulary Learning Mobile App  
+**<a href="https://github.com/NOTMORSE-PROG/VOCANOVA" target="_blank">VocaNova</a>** - Vocabulary Learning Mobile App  
 Gamified educational app for Grade 7 students to enhance vocabulary learning  
 `Kotlin` `Jetpack Compose` `Firebase` `Material Design 3`
 
-**T.I.P MART** - Campus Marketplace Mobile App  
+**<a href="https://github.com/NOTMORSE-PROG/T.I.P-MART" target="_blank">T.I.P MART</a>** - Campus Marketplace Mobile App  
 Android marketplace enabling TIP students to buy and sell items within campus  
 `Kotlin` `Jetpack Compose` `Firebase` `MVVM Architecture`
 
-**FilipinoBlog** - Community Blogging Platform  
+**<a href="https://github.com/NOTMORSE-PROG/Filipino-Blog" target="_blank">FilipinoBlog</a>** - Community Blogging Platform  
 Platform for Filipino bloggers to share cultural stories and experiences  
 `PHP` `MySQL` `Bootstrap` `HTML5` `CSS3`
 
