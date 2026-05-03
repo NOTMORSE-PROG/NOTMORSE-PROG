@@ -89,3 +89,5 @@ Platform for Filipino bloggers to share cultural stories and experiences
 🎯 Participant - Hack the Beat: Capture The Flag 2025  
 🎯 Participant - C(Old) (St)art Hackathon  
 🎯 Participant - SBD Challenge
+🏆 1st Place - Grundfos Hackhaton
+
