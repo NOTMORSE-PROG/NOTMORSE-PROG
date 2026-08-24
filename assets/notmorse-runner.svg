@@ -153,7 +153,8 @@
       </g>
 
       <!-- speech bubble travels with Byte -->
-      <g transform="translate(78 2)">
+      <g transform="translate(78 2)" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.68;0.74;0.87;1" dur="15s" repeatCount="indefinite"/>
         <rect width="83" height="24" rx="7" fill="#f8fafc"/>
         <path d="M0 7L-9 13L0 18" fill="#f8fafc"/>
         <text x="11" y="16" fill="#0f172a" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700">BYTE: SHIP IT!</text>
