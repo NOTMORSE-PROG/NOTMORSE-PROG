@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/notmorse-shipyard.svg" alt="Animated terminal scene where Byte, a pixel corgi, ships Mark's ideas" width="100%" />
+  <a href="https://condino-profile.vercel.app/" title="Enter Mark Andrei Condino's portfolio">
+    <img src="./assets/notmorse-shipyard.svg?v=portfolio" alt="Open Mark Andrei Condino's portfolio — animated terminal scene where Byte, a pixel corgi, ships ideas" width="100%" />
+  </a>
 </p>
 
 <p align="center">
