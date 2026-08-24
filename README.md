@@ -14,50 +14,84 @@ I build web, mobile, and AI products end to end—from the first sketch to deplo
 
 **10+ websites shipped** · **3+ Android apps** · **1st Place, Grundfos Hackathon** · **Leading 50+ developers**
 
-<details>
-<summary><strong>⌁ OPEN BYTE'S COMMAND DECK</strong> · <code>click to boot</code></summary>
+## 🐾 Play Byte's 30-second adventure
 
-```console
-byte@notmorse:~$ help
-Choose a command. Every route unlocks something different.
-```
+**No coding knowledge needed—just click a choice and help Byte save the launch.**
 
 <details>
-<summary>🚀 <code>byte start --client-project</code></summary>
+<summary><strong>🎮 START THE GAME</strong> · Byte needs your help before midnight</summary>
 
-### Have an ambitious idea?
+### The missing launch key
 
-I can take a web or mobile product from requirements and interface design through development and deployment.
+It is **11:57 PM**. Byte has three minutes to launch Mark's newest creation—but the key has vanished.
 
-[**Enter the portfolio →**](https://condino-profile.vercel.app/) · [**Launch a project inquiry →**](mailto:markandreicondino@gmail.com?subject=Freelance%20Project%20Inquiry&body=Hi%20Mark%2C%0A%0AI%20found%20you%20through%20your%20GitHub%20profile.%20I%27d%20like%20to%20build%3A%20)
+**What should Byte do first? Pick a path:**
+
+<details>
+<summary>✨ Follow the glowing pawprints</summary>
+
+The trail ends at a tiny door blinking with mysterious dots and dashes. Byte tilts his head.
+
+<details>
+<summary>🔎 Ask Byte to sniff the final glowing dot</summary>
+
+The wall slides open. **The launch key was hidden inside!**
+
+🚀 **LEGENDARY ENDING — Launched with 12 seconds left**
 
 </details>
 
 <details>
-<summary>🧪 <code>byte explore --best-builds</code></summary>
+<summary>🎾 Let Byte dig beneath the door</summary>
 
-| Build | Route |
-| :--- | :--- |
-| AI engineering | [Open GrundMatch](https://github.com/NOTMORSE-PROG/Grundfos) |
-| On-chain product | [Try StreamPay](https://streampay-stellar.vercel.app) |
-| Academic integrity | [Inspect VERIDICAL](https://github.com/NOTMORSE-PROG/Veridical) |
+Byte finds one tennis ball, zero keys, and absolutely no regrets.
+
+🎾 **SIDE-QUEST ENDING — Ball Is Life**  
+Close this path and try another choice.
+
+</details>
 
 </details>
 
 <details>
-<summary>🏆 <code>byte inspect --achievement-log</code></summary>
+<summary>🧰 Search the rattling machine</summary>
 
-```text
-[PASS] 1st Place · Grundfos Hackathon
-[SHIP] 10+ websites · 3+ Android applications
-[LEAD] 50+ developers in an open-source community
-[MODE] Freelancer since 2023 · BSIT '27
-```
+Two enormous buttons light up. Byte's paw hovers dramatically between them.
+
+<details>
+<summary>🟢 Press “CHECK EVERYTHING”</summary>
+
+Lights flash. Gears spin. The machine checks every corner and pops out the missing key.
+
+✅ **HERO ENDING — Safe launch, happy client**
 
 </details>
 
 <details>
-<summary>🐾 <code>byte pet</code></summary>
+<summary>🔴 Press the suspicious red button</summary>
+
+Confetti explodes. Seventeen tennis balls roll across the room. The key is still missing.
+
+🎉 **CHAOS ENDING — Excellent party, terrible rescue**  
+Close this path and make another choice.
+
+</details>
+
+</details>
+
+<details>
+<summary>💛 Give Byte a lucky head scratch</summary>
+
+Byte stands up. The missing key was underneath him the entire time.
+
+🐾 **SECRET ENDING — Friendship saves the launch**
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>🐶 PET BYTE</strong> · instant tail-wag interaction</summary>
 
 ```text
  / \__
@@ -66,107 +100,8 @@ I can take a web or mobile product from requirements and interface design throug
 /   (_____/
 /_____/   U
 
-+1 ship energy. Byte is ready for the next build.
++10 happiness · +10 tail wags · +1 legendary visitor
 ```
-
-</details>
-
-<details>
-<summary>🎮 <code>byte play --deploy-quest</code></summary>
-
-```text
-BYTE QUEST: THE LAST-MINUTE DEPLOY
-TIME 23:57 · DEPLOY WINDOW CLOSES IN 3 MINUTES
-
-Byte misplaced the launch key. Choose his first move.
-```
-
-<details>
-<summary>➊ Follow the glowing Morse trail</summary>
-
-Byte finds this message blinking beneath the deployment rail:
-
-```text
-...  ....  ..  .--.
-```
-
-<details>
-<summary>Decode the message</summary>
-
-```text
-S + H + I + P = SHIP
-
-[KEY FOUND] The final dot opens a hidden compartment.
-[DEPLOYED] Production is live with 12 seconds remaining.
-```
-
-🏁 **LEGENDARY ENDING — Morse Master**
-
-</details>
-
-<details>
-<summary>Ignore the code and let Byte dig</summary>
-
-```text
-[FOUND] 1 tennis ball
-[FOUND] 0 deployment keys
-[STATUS] Byte is extremely pleased with himself.
-```
-
-🎾 **SIDE-QUEST ENDING — Ball Is Life**  
-Close this route and try another before the deploy window ends.
-
-</details>
-
-</details>
-
-<details>
-<summary>➋ Inspect the suspicious server rack</summary>
-
-The rack displays two commands. Byte's paw is hovering over Enter.
-
-<details>
-<summary><code>npm test && npm run deploy</code></summary>
-
-```text
-47 tests passed · 0 failed
-Launch key discovered inside the final test fixture.
-Deployment completed safely.
-```
-
-✅ **PRO ENDING — Tests Save Production**
-
-</details>
-
-<details>
-<summary><code>git push --force origin main</code></summary>
-
-```text
-ERROR: Byte has been removed from keyboard privileges.
-Production survives. Your dignity does not.
-```
-
-💥 **CHAOTIC ENDING — Never Force-Push Friday**  
-Close this route and choose a safer command.
-
-</details>
-
-</details>
-
-<details>
-<summary>➌ Pet Byte for good luck</summary>
-
-```text
-+10 morale
-+10 tail wags
-[KEY FOUND] Byte was sitting on it the entire time.
-```
-
-🐾 **SECRET ENDING — Friendship-Driven Development**
-
-</details>
-
-</details>
 
 </details>
 
@@ -183,3 +118,4 @@ Close this route and choose a safer command.
 `TypeScript` · `Next.js` · `React Native` · `Kotlin` · `Python` · `Laravel` · `PostgreSQL` · `Docker` · `AWS`
 
 > **Available for freelance projects and collaborations.** [Tell me what you're building →](mailto:markandreicondino@gmail.com)
+
