@@ -67,6 +67,24 @@
     <rect x="58" y="108" width="390" height="3" rx="1.5" fill="url(#edge)" filter="url(#softGlow)"/>
     <text x="58" y="136" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.1">FULL-STACK DEVELOPER  /  FREELANCER  /  BSIT '27</text>
 
+    <!-- portfolio gateway -->
+    <g transform="translate(890 76)">
+      <animateTransform attributeName="transform" type="translate" values="890 76;890 73;890 76" dur="3.2s" repeatCount="indefinite"/>
+      <rect width="240" height="58" rx="13" fill="#0b1220" fill-opacity="0.9" stroke="url(#edge)" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="2.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="5" y="5" width="230" height="48" rx="9" fill="none" stroke="#60a5fa" stroke-opacity="0.18"/>
+      <circle cx="29" cy="29" r="13" fill="#2dd4bf" fill-opacity="0.15" stroke="#5eead4" stroke-width="1.5">
+        <animate attributeName="r" values="11;14;11" dur="2.1s" repeatCount="indefinite"/>
+        <animate attributeName="fill-opacity" values="0.1;0.28;0.1" dur="2.1s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M23 34L35 22M27 22H35V30" fill="none" stroke="#5eead4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="1.4s" repeatCount="indefinite"/>
+      </path>
+      <text x="51" y="27" fill="#f8fafc" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="0.7">ENTER PORTFOLIO</text>
+      <text x="51" y="43" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="1.3">CLICK ANYWHERE TO EXPLORE</text>
+    </g>
+
     <!-- rotating proof line -->
     <text x="58" y="168" fill="#5eead4" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">
       &gt; shipped: 10+ websites · 3+ Android apps
