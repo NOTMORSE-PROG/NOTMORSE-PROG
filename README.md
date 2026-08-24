@@ -17,12 +17,12 @@ I build web, mobile, and AI products end to end—from the first sketch to deplo
 ## 🐾 Byte Quest: Shipyard Sprint
 
 <a href="https://condino-profile.vercel.app/byte-quest" title="Play Byte Quest — a real pixel-art platform game">
-  <img src="./assets/byte-quest-cartridge.svg?v=game" alt="Animated preview of Byte Quest: Shipyard Sprint — click to play the real game" width="100%" />
+  <img src="./assets/byte-quest-cartridge.svg?v=zoomies" alt="Animated preview of Byte Quest: Shipyard Sprint — click to play the real game" width="100%" />
 </a>
 
 <p align="center">
   <a href="https://condino-profile.vercel.app/byte-quest"><strong>🎮 PLAY THE REAL BYTE QUEST →</strong></a><br />
-  <sub>Run · jump · collect proof cores · pet Byte · desktop and phone controls · no coding knowledge needed</sub>
+  <sub>Run · jump · collect proof cores · pet Byte · desktop and phone controls · three pets unlock Zoomies</sub>
 </p>
 
 ## Selected work
