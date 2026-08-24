@@ -14,96 +14,16 @@ I build web, mobile, and AI products end to end—from the first sketch to deplo
 
 **10+ websites shipped** · **3+ Android apps** · **1st Place, Grundfos Hackathon** · **Leading 50+ developers**
 
-## 🐾 Play Byte's 30-second adventure
+## 🐾 Byte Quest: Shipyard Sprint
 
-**No coding knowledge needed—just click a choice and help Byte save the launch.**
+<a href="https://condino-profile.vercel.app/byte-quest" title="Play Byte Quest — a real pixel-art platform game">
+  <img src="./assets/byte-quest-cartridge.svg?v=game" alt="Animated preview of Byte Quest: Shipyard Sprint — click to play the real game" width="100%" />
+</a>
 
-<details>
-<summary><strong>🎮 START THE GAME</strong> · Byte needs your help before midnight</summary>
-
-### The missing launch key
-
-It is **11:57 PM**. Byte has three minutes to launch Mark's newest creation—but the key has vanished.
-
-**What should Byte do first? Pick a path:**
-
-<details>
-<summary>✨ Follow the glowing pawprints</summary>
-
-The trail ends at a tiny door blinking with mysterious dots and dashes. Byte tilts his head.
-
-<details>
-<summary>🔎 Ask Byte to sniff the final glowing dot</summary>
-
-The wall slides open. **The launch key was hidden inside!**
-
-🚀 **LEGENDARY ENDING — Launched with 12 seconds left**
-
-</details>
-
-<details>
-<summary>🎾 Let Byte dig beneath the door</summary>
-
-Byte finds one tennis ball, zero keys, and absolutely no regrets.
-
-🎾 **SIDE-QUEST ENDING — Ball Is Life**  
-Close this path and try another choice.
-
-</details>
-
-</details>
-
-<details>
-<summary>🧰 Search the rattling machine</summary>
-
-Two enormous buttons light up. Byte's paw hovers dramatically between them.
-
-<details>
-<summary>🟢 Press “CHECK EVERYTHING”</summary>
-
-Lights flash. Gears spin. The machine checks every corner and pops out the missing key.
-
-✅ **HERO ENDING — Safe launch, happy client**
-
-</details>
-
-<details>
-<summary>🔴 Press the suspicious red button</summary>
-
-Confetti explodes. Seventeen tennis balls roll across the room. The key is still missing.
-
-🎉 **CHAOS ENDING — Excellent party, terrible rescue**  
-Close this path and make another choice.
-
-</details>
-
-</details>
-
-<details>
-<summary>💛 Give Byte a lucky head scratch</summary>
-
-Byte stands up. The missing key was underneath him the entire time.
-
-🐾 **SECRET ENDING — Friendship saves the launch**
-
-</details>
-
-</details>
-
-<details>
-<summary><strong>🐶 PET BYTE</strong> · instant tail-wag interaction</summary>
-
-```text
- / \__
-(    @\___
- /         O
-/   (_____/
-/_____/   U
-
-+10 happiness · +10 tail wags · +1 legendary visitor
-```
-
-</details>
+<p align="center">
+  <a href="https://condino-profile.vercel.app/byte-quest"><strong>🎮 PLAY THE REAL BYTE QUEST →</strong></a><br />
+  <sub>Run · jump · collect proof cores · pet Byte · desktop and phone controls · no coding knowledge needed</sub>
+</p>
 
 ## Selected work
 
