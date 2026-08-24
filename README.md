@@ -1,15 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/notmorse-runner.svg" alt="Animated terminal scene where Byte, a pixel corgi, ships Mark's ideas" width="100%" />
+</p>
 
-# Mark Andrei Condino
-
-### Full-stack developer turning ambitious ideas into shipped products.
-
-Freelancer since 2023 · Hackathon winner · BSIT '27  
-Metro Manila, Philippines · Available for remote freelance work
-
-[Portfolio](https://condino-profile.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mark-andrei-condino-0323a5327/) · [Email](mailto:markandreicondino@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://condino-profile.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mark-andrei-condino-0323a5327/">LinkedIn</a> ·
+  <a href="mailto:markandreicondino@gmail.com">Email</a>
+</p>
 
 I build web, mobile, and AI products end to end—from the first sketch to deployment.
 
