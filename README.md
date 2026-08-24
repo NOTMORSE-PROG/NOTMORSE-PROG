@@ -1,93 +1,30 @@
-# MARK ANDREI A. CONDINO
-**Full-Stack Developer | Tech Leader**
+<div align="center">
 
-📧 markandreicondino@gmail.com | 📱 +63 927 598 0544 | 📍 Manila, Philippines  
-🔗 <a href="https://www.linkedin.com/in/mark-andrei-condino-0323a5327/" target="_blank">LinkedIn</a> | 🌐 <a href="https://condino-profile.vercel.app" target="_blank">Portfolio</a>
+# Mark Andrei Condino
 
----
+### Full-stack developer turning ambitious ideas into shipped products.
 
-## PROFESSIONAL SUMMARY
+Freelancer since 2023 · Hackathon winner · BSIT '27  
+Metro Manila, Philippines · Available for remote freelance work
 
-Full-Stack Developer specializing in web and mobile application development. Experienced in building scalable solutions using React.js, Next.js, PHP, and Kotlin. Proven track record of delivering 10+ websites and 3+ Android applications while leading technical communities and managing cross-functional projects.
+[Portfolio](https://condino-profile.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mark-andrei-condino-0323a5327/) · [Email](mailto:markandreicondino@gmail.com)
 
----
+</div>
 
-## EXPERIENCE
+I build web, mobile, and AI products end to end—from the first sketch to deployment.
 
-**Software Developer** | Ethos Bytes (Australia) | Oct 2025 - Dec 2025
-- Collaborated with development teams on design, development, and testing of software applications
-- Implemented OAuth2.0 authentication flows and Microsoft Entra integration
-- Participated in Agile/Scrum development with daily standups and sprint planning
-- **Tech Stack:** Docker, Django, React, React Native, Python, Next.js, TailwindCSS
+**10+ websites shipped** · **3+ Android apps** · **1st Place, Grundfos Hackathon** · **Leading 50+ developers**
 
-**Freelance Full-Stack Developer** | Self-Employed | Jun 2023 - Present
-- Delivered 10+ responsive websites and 3+ Android applications for clients and academic organizations
-- Managed full project lifecycle from requirements gathering to deployment with 100% on-time delivery
-- Provided training and documentation to non-technical clients for project maintenance
-- **Tech Stack:** React.js, Next.js, PHP, Laravel, Kotlin, Firebase, MySQL, AWS, TailwindCSS
+## Selected work
 
----
+| Project | Proof of work |
+| :--- | :--- |
+| [**GrundMatch**](https://github.com/NOTMORSE-PROG/Grundfos) | AI pump advisor combining deterministic sizing, OCR, and ROI analysis—built for the winning Grundfos Hackathon entry. |
+| [**StreamPay**](https://github.com/NOTMORSE-PROG/StreamPay) · [Live](https://streampay-stellar.vercel.app) | Salary streaming on Stellar/Soroban; workers earn and withdraw by the second. |
+| [**VERIDICAL**](https://github.com/NOTMORSE-PROG/Veridical) | AI-assisted research-integrity platform and my current BSIT capstone. |
 
-## EDUCATION
+## Core stack
 
-**Bachelor of Science in Information Technology**  
-Technological Institute of the Philippines | Expected May 2027
+`TypeScript` · `Next.js` · `React Native` · `Kotlin` · `Python` · `Laravel` · `PostgreSQL` · `Docker` · `AWS`
 
-**Certifications:** NC2 Certification
-
----
-
-## LEADERSHIP EXPERIENCE
-
-**Open Source President**
-- Lead organization of 50+ developers in programming excellence and open-source technology adoption
-- Organized technical workshops on web development, Android development, and cloud technologies
-- Coordinated competitive programming participation with multiple top-10 placements
-- Established partnerships with tech organizations for mentorship and internship opportunities
-
-**Lead Cloud Security Officer**
-- Implemented AWS security best practices and compliance standards for student projects
-- Promoted secure cloud development culture through hands-on training sessions
-
----
-
-## FEATURED PROJECTS
-
-**<a href="https://github.com/NOTMORSE-PROG/VoteHubPH" target="_blank">VoteHubPH</a>** - National Voting & Candidate Information Platform  
-Full-stack platform for Filipino voters to access candidate data and engage in democratic discussions  
-`Next.js 14` `Laravel 11` `PostgreSQL` `TailwindCSS`
-
-**<a href="https://github.com/NOTMORSE-PROG/VOCANOVA" target="_blank">VocaNova</a>** - Vocabulary Learning Mobile App  
-Gamified educational app for Grade 7 students to enhance vocabulary learning  
-`Kotlin` `Jetpack Compose` `Firebase` `Material Design 3`
-
-**<a href="https://github.com/NOTMORSE-PROG/T.I.P-MART" target="_blank">T.I.P MART</a>** - Campus Marketplace Mobile App  
-Android marketplace enabling TIP students to buy and sell items within campus  
-`Kotlin` `Jetpack Compose` `Firebase` `MVVM Architecture`
-
-**<a href="https://github.com/NOTMORSE-PROG/Filipino-Blog" target="_blank">FilipinoBlog</a>** - Community Blogging Platform  
-Platform for Filipino bloggers to share cultural stories and experiences  
-`PHP` `MySQL` `Bootstrap` `HTML5` `CSS3`
-
----
-
-## TECHNICAL SKILLS
-
-**Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Bootstrap, HTML5, CSS3  
-**Backend:** PHP, Laravel, Node.js, Django, Python  
-**Mobile:** Kotlin, Java, Jetpack Compose, React Native  
-**Database:** PostgreSQL, MySQL, Firebase, Supabase, Prisma  
-**DevOps/Cloud:** AWS, Docker, Vercel, Git/GitHub, GitLab  
-**Other:** OAuth2.0, MVVM Architecture, Material Design 3, Agile/Scrum
-
----
-
-## ACHIEVEMENTS
-
-🏆 3rd Place - CodeQuest IT Summit  
-🎯 Participant - SIKAPTALA 2025  
-🎯 Participant - Hack the Beat: Capture The Flag 2025  
-🎯 Participant - C(Old) (St)art Hackathon  
-🎯 Participant - SBD Challenge
-🏆 1st Place - Grundfos Hackhaton
-
+> **Available for freelance projects and collaborations.** [Tell me what you're building →](mailto:markandreicondino@gmail.com)
