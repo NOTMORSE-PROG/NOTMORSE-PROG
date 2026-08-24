@@ -14,6 +14,65 @@ I build web, mobile, and AI products end to end—from the first sketch to deplo
 
 **10+ websites shipped** · **3+ Android apps** · **1st Place, Grundfos Hackathon** · **Leading 50+ developers**
 
+<details>
+<summary><strong>⌁ OPEN BYTE'S COMMAND DECK</strong> · <code>click to boot</code></summary>
+
+```console
+byte@notmorse:~$ help
+Choose a command. Every route unlocks something different.
+```
+
+<details>
+<summary>🚀 <code>byte start --client-project</code></summary>
+
+### Have an ambitious idea?
+
+I can take a web or mobile product from requirements and interface design through development and deployment.
+
+[**Enter the portfolio →**](https://condino-profile.vercel.app/) · [**Launch a project inquiry →**](mailto:markandreicondino@gmail.com?subject=Freelance%20Project%20Inquiry&body=Hi%20Mark%2C%0A%0AI%20found%20you%20through%20your%20GitHub%20profile.%20I%27d%20like%20to%20build%3A%20)
+
+</details>
+
+<details>
+<summary>🧪 <code>byte explore --best-builds</code></summary>
+
+| Build | Route |
+| :--- | :--- |
+| AI engineering | [Open GrundMatch](https://github.com/NOTMORSE-PROG/Grundfos) |
+| On-chain product | [Try StreamPay](https://streampay-stellar.vercel.app) |
+| Academic integrity | [Inspect VERIDICAL](https://github.com/NOTMORSE-PROG/Veridical) |
+
+</details>
+
+<details>
+<summary>🏆 <code>byte inspect --achievement-log</code></summary>
+
+```text
+[PASS] 1st Place · Grundfos Hackathon
+[SHIP] 10+ websites · 3+ Android applications
+[LEAD] 50+ developers in an open-source community
+[MODE] Freelancer since 2023 · BSIT '27
+```
+
+</details>
+
+<details>
+<summary>🐾 <code>byte pet</code></summary>
+
+```text
+ / \__
+(    @\___
+ /         O
+/   (_____/
+/_____/   U
+
++1 ship energy. Byte is ready for the next build.
+```
+
+</details>
+
+</details>
+
 ## Selected work
 
 | Project | Proof of work |
