@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/notmorse-runner.svg" alt="Animated terminal scene where Byte, a pixel corgi, ships Mark's ideas" width="100%" />
+  <img src="./assets/notmorse-runner.svg?v=2" alt="Animated terminal scene where Byte, a pixel corgi, ships Mark's ideas" width="100%" />
 </p>
 
 <p align="center">
