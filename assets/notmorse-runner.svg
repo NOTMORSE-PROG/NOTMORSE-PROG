@@ -153,9 +153,9 @@
       </g>
 
       <!-- speech bubble travels with Byte -->
-      <g transform="translate(18 -22)">
+      <g transform="translate(78 2)">
         <rect width="83" height="24" rx="7" fill="#f8fafc"/>
-        <path d="M25 24L32 31L38 24" fill="#f8fafc"/>
+        <path d="M0 7L-9 13L0 18" fill="#f8fafc"/>
         <text x="11" y="16" fill="#0f172a" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700">BYTE: SHIP IT!</text>
       </g>
     </g>
