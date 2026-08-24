@@ -71,6 +71,103 @@ I can take a web or mobile product from requirements and interface design throug
 
 </details>
 
+<details>
+<summary>🎮 <code>byte play --deploy-quest</code></summary>
+
+```text
+BYTE QUEST: THE LAST-MINUTE DEPLOY
+TIME 23:57 · DEPLOY WINDOW CLOSES IN 3 MINUTES
+
+Byte misplaced the launch key. Choose his first move.
+```
+
+<details>
+<summary>➊ Follow the glowing Morse trail</summary>
+
+Byte finds this message blinking beneath the deployment rail:
+
+```text
+...  ....  ..  .--.
+```
+
+<details>
+<summary>Decode the message</summary>
+
+```text
+S + H + I + P = SHIP
+
+[KEY FOUND] The final dot opens a hidden compartment.
+[DEPLOYED] Production is live with 12 seconds remaining.
+```
+
+🏁 **LEGENDARY ENDING — Morse Master**
+
+</details>
+
+<details>
+<summary>Ignore the code and let Byte dig</summary>
+
+```text
+[FOUND] 1 tennis ball
+[FOUND] 0 deployment keys
+[STATUS] Byte is extremely pleased with himself.
+```
+
+🎾 **SIDE-QUEST ENDING — Ball Is Life**  
+Close this route and try another before the deploy window ends.
+
+</details>
+
+</details>
+
+<details>
+<summary>➋ Inspect the suspicious server rack</summary>
+
+The rack displays two commands. Byte's paw is hovering over Enter.
+
+<details>
+<summary><code>npm test && npm run deploy</code></summary>
+
+```text
+47 tests passed · 0 failed
+Launch key discovered inside the final test fixture.
+Deployment completed safely.
+```
+
+✅ **PRO ENDING — Tests Save Production**
+
+</details>
+
+<details>
+<summary><code>git push --force origin main</code></summary>
+
+```text
+ERROR: Byte has been removed from keyboard privileges.
+Production survives. Your dignity does not.
+```
+
+💥 **CHAOTIC ENDING — Never Force-Push Friday**  
+Close this route and choose a safer command.
+
+</details>
+
+</details>
+
+<details>
+<summary>➌ Pet Byte for good luck</summary>
+
+```text
++10 morale
++10 tail wags
+[KEY FOUND] Byte was sitting on it the entire time.
+```
+
+🐾 **SECRET ENDING — Friendship-Driven Development**
+
+</details>
+
+</details>
+
 </details>
 
 ## Selected work
